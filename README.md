@@ -9,7 +9,7 @@
 - 👯 I’m looking to collaborate on open source projects related to game development
 - 🤔 I’m looking for help with networking, physics, and graphics
 - 💬 Ask me about anything related to multiplayer game development and programming
-- 📫 How to reach me:  [LinkedIn](https://www.linkedin.com/in/alireza-khishvand) or [Email](ar.khishvand@gmail.com)
+- 📫 How to reach me:  [LinkedIn](https://www.linkedin.com/in/alireza-khishvand) or [Email](mailto:ar.khishvand@gmail.com)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love to play chess and video games
 
