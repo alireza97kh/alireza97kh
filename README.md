@@ -48,6 +48,7 @@ These are some of the technologies and tools that I have used or learned:
 If you want to get in touch with me, you can reach me at:
 
 [LinkedIn](https://www.linkedin.com/in/alireza-khishvand) 
+
 [Email](mailto:ar.khishvand@gmail.com)
 
 
