@@ -26,14 +26,10 @@ Here are some of the projects I have worked on or contributed to:
 
 These are some of the technologies and tools that I have used or learned:
 
-!C++
-!C#
-!Python
-!Unity
-!Unreal Engine
-!Git
-!GitHub
-!VS Code
+<div>
+  <img src="https://github.com/devicons/devicon/blob/55609aa5bd817ff167afce0d965585c92040787a/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="40" height="40"/>&nbsp;
+</div>
+
 
 ## 📈 My Stats
 
