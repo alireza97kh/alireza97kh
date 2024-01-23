@@ -3,8 +3,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on MobaGameServerUDP, a UDP-based multiplayer game server
-- 🌱 I’m currently learning C#, Unity, and Unreal Engine
+- 🔭 I’m currently working on MOBA GameServer UDP, a UDP-based multiplayer game server
 - 👯 I’m looking to collaborate on open source projects related to game development
 - 🤔 I’m looking for help with networking, physics, and graphics
 - 💬 Ask me about anything related to multiplayer game development and programming
@@ -16,8 +15,8 @@
 
 Here are some of the projects I have worked on or contributed to:
 
-- MobaGameServer - A TCP-based multiplayer game server using C++ and Boost
-- MobaGameServerUDP - A UDP-based multiplayer game server using C++ and Boost
+- MobaGameServer - A TCP-based multiplayer game server using C++
+- MobaGameServerUDP - A UDP-based multiplayer game server using C++
 - UnityUtility - A collection of useful scripts and extensions for Unity game development
 
 !screenshot
