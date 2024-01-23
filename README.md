@@ -1,6 +1,5 @@
 # 👋 Hi there, I'm Alireza - a passionate multiplayer game developer
 
-!banner
 
 ## 🙋‍♂️ About Me
 
