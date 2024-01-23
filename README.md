@@ -54,6 +54,9 @@ If you want to get in touch with me, you can reach me at:
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=alireza97kh&theme=dark&background=000000)](https://git.io/streak-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alireza97kh&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 ## 📝 License
 
