@@ -37,7 +37,9 @@ These are some of the technologies and tools that I have used or learned:
 
 ## 📈 My Stats
 
-!My GitHub stats
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=alireza97kh&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alireza97kh&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 !Top Langs
 
@@ -45,17 +47,8 @@ These are some of the technologies and tools that I have used or learned:
 
 If you want to get in touch with me, you can reach me at:
 
-!Email
-!LinkedIn
-
----
-
-### :fire: My Stats :
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=alireza97kh&theme=dark&background=000000)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alireza97kh&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
+[LinkedIn](https://www.linkedin.com/in/alireza-khishvand) 
+[Email](mailto:ar.khishvand@gmail.com)
 
 
 ## 📝 License
