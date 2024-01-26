@@ -41,7 +41,6 @@ These are some of the technologies and tools that I have used or learned:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alireza97kh&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-!Top Langs
 
 ## 📫 Contact Me
 
