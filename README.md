@@ -18,7 +18,6 @@ Here are some of the projects I have worked on or contributed to:
 - MobaGameServerUDP - A UDP-based multiplayer game server using C#
 - UnityUtility - A collection of useful scripts and extensions for Unity game development
 
-!screenshot
 
 ## 💻 My Skills
 
