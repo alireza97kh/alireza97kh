@@ -59,9 +59,9 @@ I document real Unity architecture and multiplayer systems — no fluff, just im
 
 ## 📈 GitHub Stats
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=alireza97kh&theme=dark&background=0D1117&ring=C9A84C&fire=C9A84C&currStreakLabel=C9A84C)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=alireza97kh&theme=dark&background=000000)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alireza97kh&layout=compact&theme=github_dark&title_color=C9A84C)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alireza97kh&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
