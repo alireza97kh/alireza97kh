@@ -13,10 +13,10 @@
 | Project | Platform | Scale | Role |
 |---|---|---|---|
 | **[Everyone's Train Town](https://play.google.com/store/apps/details?id=com.jr.mintrain)** | iOS & Android | 106K+ installs | Sole Engineer |
-| **Pookeh** — PvP Hero Shooter | PC & Android | 100K+ players · 3× Fajr Awards | Lead Multiplayer Dev |
+| **Pookeh** — PvP Hero Shooter | PC & Android | 100K+ players · 3× Fajr Awards | Core Developer |
 | **WordRace** | Mobile | Commercially shipped | Core Developer |
 | **Backgammon** | Mobile | Commercially shipped | Core Developer |
-| **DinoWay** | Android | Published | Co-Developer |
+| **DinoWay** | Android | Published | Sole Engineer |
 
 ---
 
