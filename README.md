@@ -61,8 +61,6 @@ I document real Unity architecture and multiplayer systems — no fluff, just im
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=alireza97kh&theme=dark&background=000000)](https://git.io/streak-stats)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alireza97kh)](https://github.com/anuraghazra/github-readme-stats)
-
 ---
 
 ## 📬 Contact
