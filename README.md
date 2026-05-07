@@ -1,51 +1,74 @@
-# 👋 Hi there, I'm Alireza - a passionate multiplayer game developer
+# AliReza Khishvand — Unity Gameplay & Multiplayer Developer
 
+**8+ years shipping multiplayer titles across mobile and PC.**  
+3× Golden Deer Award winner at Iran's Fajr International Game Festival · 100K+ players reached · 106K+ installs
 
-## 🙋‍♂️ About Me
+> Specialized in real-time multiplayer architecture — Photon PUN2/Fusion, Mirror, Netcode for GameObjects, and custom server-authoritative systems with input-based networking.  
+> Open to remote, contract & relocation opportunities.
 
-- 🔭 I’m currently working on MOBA GameServer UDP, a UDP-based multiplayer game server
-- 👯 I’m looking to collaborate on open source projects related to game development
-- 💬 Ask me about anything related to multiplayer game development and programming
-- 📫 How to reach me:  [LinkedIn](https://www.linkedin.com/in/alireza-khishvand) or [Email](mailto:ar.khishvand@gmail.com)
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love to play chess and video games
+---
 
-## 🚀 My Projects
+## 🚢 Shipped Games
 
-Here are some of the projects I have worked on or contributed to:
+| Project | Platform | Scale | Role |
+|---|---|---|---|
+| **[Everyone's Train Town](https://play.google.com/store/apps/details?id=com.jr.mintrain)** | iOS & Android | 106K+ installs | Sole Engineer |
+| **Pookeh** — PvP Hero Shooter | PC & Android | 100K+ players · 3× Fajr Awards | Lead Multiplayer Dev |
+| **WordRace** | Mobile | Commercially shipped | Core Developer |
+| **Backgammon** | Mobile | Commercially shipped | Core Developer |
+| **DinoWay** | Android | Published | Co-Developer |
 
-- MobaGameServer - A TCP-based multiplayer game server using C#
-- MobaGameServerUDP - A UDP-based multiplayer game server using C#
-- UnityUtility - A collection of useful scripts and extensions for Unity game development
+---
 
+## 🏆 Awards
 
-## 💻 My Skills
+**3× Golden Deer Award — Fajr International Game Festival, Iran**  
+*Best Action Game · Best Technical Achievement · Honorary Art Diploma*  
+Awarded for **Pookeh** at ANU Game Studio. Fajr is Iran's largest government-recognized game festival (est. 1989, 200+ submissions annually).
 
-These are some of the technologies and tools that I have used or learned:
+---
 
-<div>
-  <img src="https://github.com/devicons/devicon/blob/55609aa5bd817ff167afce0d965585c92040787a/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/55609aa5bd817ff167afce0d965585c92040787a/icons/unity/unity-original-wordmark.svg" title="Unity" alt="Unity" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/55609aa5bd817ff167afce0d965585c92040787a/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/55609aa5bd817ff167afce0d965585c92040787a/icons/thealgorithms/thealgorithms-plain.svg" title="Algorithm Design" alt="Algorithm Design" width="40" height="40"/>&nbsp;
-  
-  <img src="https://github.com/devicons/devicon/blob/55609aa5bd817ff167afce0d965585c92040787a/icons/nodejs/nodejs-original-wordmark.svg" title="Node js" alt="Node js" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/55609aa5bd817ff167afce0d965585c92040787a/icons/unrealengine/unrealengine-original.svg" title="Unreal Engine" alt="Unreal Engine" width="40" height="40"/>&nbsp;
-</div>
+## 🛠 Technical Skills
 
+**Multiplayer**  
+`Photon PUN2` `Photon Fusion` `Mirror` `Netcode for GameObjects` `TCP/UDP Sockets` `WebSocket`  
+`Server-Authoritative Architecture` `Input-Based Networking` `Client-Side Prediction` `Lag Compensation`
 
-## 📈 My Stats
+**Unity & C#**  
+`Unity 2020 LTS` `Unity 2021 LTS` `Unity 2022 LTS` `Unity 6` `C#` `URP`  
+`Addressables` `ScriptableObjects` `DOTween` `Editor Scripting` `Performance Profiling`
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=alireza97kh&theme=dark&background=000000)](https://git.io/streak-stats)
+**Systems & Patterns**  
+`State Machine` `MVC` `Object Pooling` `OOP` `Game Economy Design`
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alireza97kh&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+**Tools**  
+`Git / GitHub` `Agile / Scrum` `Zepeto SDK` `Gmail OAuth`
 
+**Platforms**  
+`iOS` `Android` `PC (Steam)`
 
-## 📫 Contact Me
+---
 
-If you want to get in touch with me, you can reach me at:
+## 📺 Zero To Game — YouTube Channel
 
-[LinkedIn](https://www.linkedin.com/in/alireza-khishvand) 
+I document real Unity architecture and multiplayer systems — no fluff, just implementation.
 
-[Email](mailto:ar.khishvand@gmail.com)
+[![YouTube](https://img.shields.io/badge/youtube.com/@ZeroToGameByAliReza-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@ZeroToGameByAliReza)
 
+---
+
+## 📈 GitHub Stats
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=alireza97kh&theme=dark&background=0D1117&ring=C9A84C&fire=C9A84C&currStreakLabel=C9A84C)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alireza97kh&layout=compact&theme=github_dark&title_color=C9A84C)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+## 📬 Contact
+
+[![LinkedIn](https://img.shields.io/badge/linkedin.com/in/alireza--khishvand-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alireza-khishvand)
+[![Email](https://img.shields.io/badge/alireza97khish@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alireza97khish@gmail.com)
+[![YouTube](https://img.shields.io/badge/@ZeroToGameByAliReza-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@ZeroToGameByAliReza)
+
+*Open to Remote & Relocation*
